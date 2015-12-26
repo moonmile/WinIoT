@@ -1,0 +1,1 @@
+C:\git\WinIoT\HelloSample\HelloSample\HelloSample.csproj;x64
